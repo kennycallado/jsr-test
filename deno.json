@@ -1,0 +1,15 @@
+{
+  "tasks": {
+    "blue:dev": "deno task --cwd projects/base dev"
+  },
+  "nodeModulesDir": "auto",
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+  // "workspace": {
+  //   "members": [
+  //     "projects/blueprint",
+  //     "shared"
+  //   ]
+  // }
+}

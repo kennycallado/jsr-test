@@ -1,0 +1,11 @@
+{
+  "name": "@scope/shared",
+  "type": "module",
+  "version": "0.0.1",
+  "exports": {
+    ".": "./dist/index.ts"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
